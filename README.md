@@ -47,5 +47,3 @@ Always test these situations:
 - Learn how to detect a cycle using Floyd's Cycle Detection Algorithm.
 - Practice finding the nth node from the end.
 
-## 6. Remember
-**In a Singly Linked List, each node points only to the next node. You cannot directly move backward.**
